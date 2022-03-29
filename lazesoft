@@ -1,0 +1,12 @@
+Clonando windows com a ferramenta lazesot  
+
+                                                              
+Baixar e salvar a ISO do Hiren's BootCD 
+Ligar a maquina virtual com a ISO selecionada nos discos òpticos 
+
+
+Abrir o lazesoft e clicar em clone disk;
+Selecionar o HD que será clonado e clicar em next.
+Selecionar o HD de destino e next.
+Aguardar a clonagem.
+Ligar a maquina virtual com o novo HD e ver se está tudo certo.
