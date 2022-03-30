@@ -1,0 +1,14 @@
+clonando o windows usando o Macrium Reflect
+
+
+Baixar e salvar a ISO do Hiren's BootCD 
+Ligar a maquina virtual com a ISO selecionada nos discos òpticos
+
+
+Abrir o Macrium Reflect.
+Selecionar a opção clone the disk.
+O HD que será clonado ja deve estar selecionado.
+Selecione o HD de destino e clique em next.
+Veja se esta tudo certo e clique em finish.
+Aguarde a clonagem.
+Ligue a maquina com o HD novo como principal e verifique se esta tudo certo.
